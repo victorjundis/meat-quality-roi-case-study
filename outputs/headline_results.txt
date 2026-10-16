@@ -1,0 +1,14 @@
+
+HEADLINE RESULTS
+Pilot animals analysed:       3,335 (trial 1,922 / control 1,413)
+Uplift in net value:          $38.37 per animal
+95% confidence interval:      $14.10 to $62.61
+Welch t-test p-value:         0.0029
+Lot-level t-test p-value:     0.0251
+Downgrade rate:               18.0% -> 12.6%
+
+BASE CASE (5 years, 8% discount rate)
+NPV:                          $1,541,503
+Payback:                      2.5 years
+5-year ROI:                   163%
+Break-even uplift:            $25.62 per animal

@@ -1,0 +1,4 @@
+scenario,uplift_per_head,npv,payback_years,roi_pct
+Conservative,14.1,-1976035.8,,-110.0
+Base,38.4,1541502.8,2.5,162.6
+Optimistic,62.6,6365340.6,1.3,574.4
